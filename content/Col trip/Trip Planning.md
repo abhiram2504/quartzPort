@@ -1,8 +1,6 @@
 
 ---
 title: "Trip Planning"
-tags:
-	  -
 
 --- 
 

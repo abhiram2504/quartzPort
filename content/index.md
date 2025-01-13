@@ -4,8 +4,7 @@ longform:
   title: Col trip
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - Trip Planning
+  scenes: []
   sceneTemplate: templates/Chapter.md
   ignoredFiles: []
 title: Colorado Trip

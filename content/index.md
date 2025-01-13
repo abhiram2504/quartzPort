@@ -8,4 +8,6 @@ longform:
     - Trip Planning
   sceneTemplate: templates/Chapter.md
   ignoredFiles: []
+title: Colorado Trip
+draft: true
 ---

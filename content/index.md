@@ -1,12 +1,10 @@
 ---
-longform:
-  format: scenes
-  title: Col trip
-  workflow: Default Workflow
-  sceneFolder: /
-  scenes: []
-  sceneTemplate: templates/Chapter.md
-  ignoredFiles: []
 title: Colorado Trip
-draft: true
+draft: false
+tags:
+  - mountain
 ---
+ 
+The rest of your content lives here. 
+
+Making using of ***markdown*** here!
